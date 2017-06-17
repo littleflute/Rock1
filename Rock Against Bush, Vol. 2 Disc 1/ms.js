@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.8";			
+f[1]	= "04 Necrotism- Decanting the Insalubrious (Cyborg Midnight), Pt. 7 [#].mp3";		
+f[2]	= "17 Born Free [#][Live].mp3";		
+f[3]	= "18 No Hope [#][Live].mp3";		
+f[4]	= "19 Kids Today [#].mp3";		
+f[5]	= "20 Can't Wait to Quit [#].mp3";		
+f[6]	= "22 State of Fear [#].mp3";		
+f[7]	= "23 I'm Thinking [#].mp3";		
+f[8]	= "24 My Star [#].mp3";		
+f[9]	= "25 Time's Up [#].mp3";		
+f[10]	= "26 Kill the Night [#].mp3";		
+f[11]	= "28 Fields of Agony [#][Acoustic].mp3";		
